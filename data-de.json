@@ -1,0 +1,93 @@
+{
+  "apps": [
+    {
+      "id": "def3de90-0907-4674-884d-3feb56af06df",
+      "title": "",
+      "description": "",
+      "preview": "https://raw.githubusercontent.com/delab-team/apps-data/wallet-app-content/assets/whale-logo.png",
+      "background": "https://github.com/delab-team/apps-data/blob/wallet-app-content/assets/ffff.png?raw=true",
+      "descriptionColor": "#fff",
+      "link": {
+        "type": "",
+        "href": "http://whalegames.gg/?start=dewallet&utm_source=telegram&utm_medium=paid&utm_campaign=acq-dewallet-tg-gr"
+      }
+    },
+    {
+      "id": "887f1130-7a35-11e4-b21b-f9cs1w1qq1b0dd9997",
+      "title": "Fanton Fantasy Football",
+      "description": "First deposit = Free tournament entry!",
+      "preview": "https://github.com/delab-team/apps-data/blob/wallet-app-content/assets/fanton.png?raw=true",
+      "background": "https://github.com/delab-team/apps-data/blob/wallet-app-content/assets/fanton.jpg?raw=true",
+      "link": {
+        "type": "TG",
+        "href": "https://t.me/FanTonGameBot/app?startapp=play_utm-DeWallet"
+      }
+    },
+    {
+      "id": "3f894bc8-f1e6-480d-bffd-1fa500ckf199",
+      "title": "Upscale",
+      "description": "",
+      "preview": "https://raw.githubusercontent.com/delab-team/apps-data/refs/heads/wallet-app-content/assets/upscale-logo.png",
+      "background": "https://raw.githubusercontent.com/delab-team/apps-data/refs/heads/wallet-app-content/assets/tg_image_2819271603.png",
+      "link": {
+        "type": "TG",
+        "href": "https://t.me/UpscaleTradeBot"
+      }
+    },
+    {
+      "id": "3f894bc8-f1e6-480d-bffd-1fa500lkf13a",
+      "title": "Storm Trade",
+      "description": "Trade crypto, stocks & forex with up to x500 leverage",
+      "preview": "https://raw.githubusercontent.com/delab-team/apps-data/refs/heads/wallet-app-content/assets/storm-logo.png",
+      "background": "https://raw.githubusercontent.com/delab-team/apps-data/refs/heads/wallet-app-content/assets/%24STORM%20LIVE.png",
+      "link": {
+        "type": "TG",
+        "href": "https://t.me/StormTradeBot"
+      }
+    },
+    {
+      "id": "4a1fa26d-3ff5-49f0-9ca3-dd355abe51a0",
+      "title": "swap.coffee",
+      "description": "The first DEX aggregator with routing",
+      "preview": "https://raw.githubusercontent.com/delab-team/apps-data/9915879c59c6859a11ff9b1ea208d2f2cf538e62/assets/coffe-banner.svg",
+      "background": "https://github.com/delab-team/apps-data/blob/wallet-app-content/assets/coffe-swap-bg.png?raw=true",
+      "link": {
+        "type": "LINK",
+        "href": "https://swap.coffee/"
+      }
+    },
+    {
+      "id": "f59e3967-7f1a-433a-8988-152864c646a1",
+      "title": "DeSIM",
+      "description": "Buy eSIM from another country",
+      "preview": "https://github.com/delab-team/apps-data/blob/wallet-app-content/assets/desim.jpg?raw=true",
+      "background": "https://github.com/delab-team/apps-data/blob/wallet-app-content/assets/de-sim-bg.png?raw=true",
+      "link": {
+        "type": "TG",
+        "href": "https://t.me/desimtonbot/start"
+      }
+    },
+    {
+      "id": "3f894bc8-f1e6-480d-bffd-1fa500cccc3c",
+      "title": "Ton Poker",
+      "description": "First ever TG Poker for crypto",
+      "preview": "https://github.com/delab-team/apps-data/blob/wallet-app-content/assets/ton-poker-logo.svg?raw=true",
+      "background": "https://github.com/delab-team/apps-data/blob/wallet-app-content/assets/ton-poker-bg.png?raw=true",
+      "link": {
+        "type": "TG",
+        "href": "https://t.me/myTonPokerBot/lobby?startapp=eyJhZnAiOiJaRGhpTW1FeFltWmtPRFEyT1RCak9XSmtPR0U0WmpsbU9URmpNbU15TkRrIn0"
+      }
+    },
+    {
+      "id": "3f894bc8-f1e6-480d-bffd-1fa500cccc5a",
+      "title": "Tradoor",
+      "description": "Trade on TON's Super DEX: ultra-fast, zero price slippage, and the lowest fees.",
+      "preview": "https://raw.githubusercontent.com/delab-team/apps-data/refs/heads/wallet-app-content/assets/tradoor-logo.png",
+      "background": "https://raw.githubusercontent.com/delab-team/apps-data/refs/heads/wallet-app-content/assets/tradoor.png",
+      "link": {
+        "type": "TG",
+        "href": "https://t.me/tradoor_io_bot"
+      }
+    }
+  ]
+}
